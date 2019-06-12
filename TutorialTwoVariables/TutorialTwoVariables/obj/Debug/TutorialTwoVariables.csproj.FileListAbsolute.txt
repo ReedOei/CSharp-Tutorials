@@ -1,0 +1,5 @@
+C:\Users\Reed\Google Drive\C#\TutorialTwoVariables\TutorialTwoVariables\bin\Debug\TutorialTwoVariables.exe.config
+C:\Users\Reed\Google Drive\C#\TutorialTwoVariables\TutorialTwoVariables\bin\Debug\TutorialTwoVariables.exe
+C:\Users\Reed\Google Drive\C#\TutorialTwoVariables\TutorialTwoVariables\bin\Debug\TutorialTwoVariables.pdb
+C:\Users\Reed\Google Drive\C#\TutorialTwoVariables\TutorialTwoVariables\obj\Debug\TutorialTwoVariables.exe
+C:\Users\Reed\Google Drive\C#\TutorialTwoVariables\TutorialTwoVariables\obj\Debug\TutorialTwoVariables.pdb

@@ -1,0 +1,5 @@
+C:\Users\Reed\Google Drive\Programming\C#\Tutorial18THIS\Tutorial18THIS\bin\Debug\Tutorial18THIS.exe.config
+C:\Users\Reed\Google Drive\Programming\C#\Tutorial18THIS\Tutorial18THIS\bin\Debug\Tutorial18THIS.exe
+C:\Users\Reed\Google Drive\Programming\C#\Tutorial18THIS\Tutorial18THIS\bin\Debug\Tutorial18THIS.pdb
+C:\Users\Reed\Google Drive\Programming\C#\Tutorial18THIS\Tutorial18THIS\obj\Debug\Tutorial18THIS.exe
+C:\Users\Reed\Google Drive\Programming\C#\Tutorial18THIS\Tutorial18THIS\obj\Debug\Tutorial18THIS.pdb

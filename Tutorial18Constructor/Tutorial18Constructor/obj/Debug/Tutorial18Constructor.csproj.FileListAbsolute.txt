@@ -1,0 +1,6 @@
+C:\Users\Reed\Google Drive\Programming\C#\Tutorial18Constructor\Tutorial18Constructor\bin\Debug\Tutorial18Constructor.exe.config
+C:\Users\Reed\Google Drive\Programming\C#\Tutorial18Constructor\Tutorial18Constructor\bin\Debug\Tutorial18Constructor.exe
+C:\Users\Reed\Google Drive\Programming\C#\Tutorial18Constructor\Tutorial18Constructor\bin\Debug\Tutorial18Constructor.pdb
+C:\Users\Reed\Google Drive\Programming\C#\Tutorial18Constructor\Tutorial18Constructor\obj\Debug\Tutorial18Constructor.csprojResolveAssemblyReference.cache
+C:\Users\Reed\Google Drive\Programming\C#\Tutorial18Constructor\Tutorial18Constructor\obj\Debug\Tutorial18Constructor.exe
+C:\Users\Reed\Google Drive\Programming\C#\Tutorial18Constructor\Tutorial18Constructor\obj\Debug\Tutorial18Constructor.pdb

@@ -1,0 +1,5 @@
+C:\Users\Reed\Google Drive\C#\TutorialTenMethods\TutorialTenMethods\bin\Debug\TutorialTenMethods.exe.config
+C:\Users\Reed\Google Drive\C#\TutorialTenMethods\TutorialTenMethods\bin\Debug\TutorialTenMethods.exe
+C:\Users\Reed\Google Drive\C#\TutorialTenMethods\TutorialTenMethods\bin\Debug\TutorialTenMethods.pdb
+C:\Users\Reed\Google Drive\C#\TutorialTenMethods\TutorialTenMethods\obj\Debug\TutorialTenMethods.exe
+C:\Users\Reed\Google Drive\C#\TutorialTenMethods\TutorialTenMethods\obj\Debug\TutorialTenMethods.pdb

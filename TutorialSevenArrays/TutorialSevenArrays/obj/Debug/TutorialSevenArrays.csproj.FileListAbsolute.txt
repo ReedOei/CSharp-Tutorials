@@ -1,0 +1,5 @@
+C:\Users\Reed\Google Drive\C#\TutorialSevenArrays\TutorialSevenArrays\bin\Debug\TutorialSevenArrays.exe.config
+C:\Users\Reed\Google Drive\C#\TutorialSevenArrays\TutorialSevenArrays\bin\Debug\TutorialSevenArrays.exe
+C:\Users\Reed\Google Drive\C#\TutorialSevenArrays\TutorialSevenArrays\bin\Debug\TutorialSevenArrays.pdb
+C:\Users\Reed\Google Drive\C#\TutorialSevenArrays\TutorialSevenArrays\obj\Debug\TutorialSevenArrays.exe
+C:\Users\Reed\Google Drive\C#\TutorialSevenArrays\TutorialSevenArrays\obj\Debug\TutorialSevenArrays.pdb

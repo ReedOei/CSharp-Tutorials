@@ -1,0 +1,5 @@
+C:\Users\Reed\Google Drive\C#\Tutorial17AccessModifiers\Tutorial17AccessModifiers\bin\Debug\Tutorial17AccessModifiers.exe.config
+C:\Users\Reed\Google Drive\C#\Tutorial17AccessModifiers\Tutorial17AccessModifiers\bin\Debug\Tutorial17AccessModifiers.exe
+C:\Users\Reed\Google Drive\C#\Tutorial17AccessModifiers\Tutorial17AccessModifiers\bin\Debug\Tutorial17AccessModifiers.pdb
+C:\Users\Reed\Google Drive\C#\Tutorial17AccessModifiers\Tutorial17AccessModifiers\obj\Debug\Tutorial17AccessModifiers.exe
+C:\Users\Reed\Google Drive\C#\Tutorial17AccessModifiers\Tutorial17AccessModifiers\obj\Debug\Tutorial17AccessModifiers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Reed\Google Drive\C#\TutorialOneCreatingProject\TutorialOneCreatingProject\bin\Debug\TutorialOneCreatingProject.exe.config
+C:\Users\Reed\Google Drive\C#\TutorialOneCreatingProject\TutorialOneCreatingProject\bin\Debug\TutorialOneCreatingProject.exe
+C:\Users\Reed\Google Drive\C#\TutorialOneCreatingProject\TutorialOneCreatingProject\bin\Debug\TutorialOneCreatingProject.pdb
+C:\Users\Reed\Google Drive\C#\TutorialOneCreatingProject\TutorialOneCreatingProject\obj\Debug\TutorialOneCreatingProject.csprojResolveAssemblyReference.cache
+C:\Users\Reed\Google Drive\C#\TutorialOneCreatingProject\TutorialOneCreatingProject\obj\Debug\TutorialOneCreatingProject.exe
+C:\Users\Reed\Google Drive\C#\TutorialOneCreatingProject\TutorialOneCreatingProject\obj\Debug\TutorialOneCreatingProject.pdb

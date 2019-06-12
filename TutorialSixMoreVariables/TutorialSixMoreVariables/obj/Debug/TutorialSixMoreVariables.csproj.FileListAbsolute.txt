@@ -1,0 +1,5 @@
+C:\Users\Reed\Google Drive\C#\TutorialSixMoreVariables\TutorialSixMoreVariables\bin\Debug\TutorialSixMoreVariables.exe.config
+C:\Users\Reed\Google Drive\C#\TutorialSixMoreVariables\TutorialSixMoreVariables\bin\Debug\TutorialSixMoreVariables.exe
+C:\Users\Reed\Google Drive\C#\TutorialSixMoreVariables\TutorialSixMoreVariables\bin\Debug\TutorialSixMoreVariables.pdb
+C:\Users\Reed\Google Drive\C#\TutorialSixMoreVariables\TutorialSixMoreVariables\obj\Debug\TutorialSixMoreVariables.exe
+C:\Users\Reed\Google Drive\C#\TutorialSixMoreVariables\TutorialSixMoreVariables\obj\Debug\TutorialSixMoreVariables.pdb

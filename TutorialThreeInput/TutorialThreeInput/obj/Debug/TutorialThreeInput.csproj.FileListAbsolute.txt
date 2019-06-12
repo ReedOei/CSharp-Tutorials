@@ -1,0 +1,5 @@
+C:\Users\Reed\Google Drive\C#\TutorialThreeInput\TutorialThreeInput\bin\Debug\TutorialThreeInput.exe.config
+C:\Users\Reed\Google Drive\C#\TutorialThreeInput\TutorialThreeInput\bin\Debug\TutorialThreeInput.exe
+C:\Users\Reed\Google Drive\C#\TutorialThreeInput\TutorialThreeInput\bin\Debug\TutorialThreeInput.pdb
+C:\Users\Reed\Google Drive\C#\TutorialThreeInput\TutorialThreeInput\obj\Debug\TutorialThreeInput.exe
+C:\Users\Reed\Google Drive\C#\TutorialThreeInput\TutorialThreeInput\obj\Debug\TutorialThreeInput.pdb
